@@ -4,7 +4,7 @@
 
 ### Ringkasan
 Dokumen ini menjelaskan agen MCP eksternal dan integrasinya dengan ZAP (Zed Attack Proxy) untuk pengujian keamanan web otomatis. Sistem ini menggabungkan kemampuan analisis Claude dengan alat keamanan melalui protokol MCP.
-- [Diagram Arsitektur] (###Diagram Arsitektur)
+- [Diagram Arsitektur]("### Diagram Arsitektur")
 
 
 ### Diagram Arsitektur
