@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "puppeteer": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-puppeteer"]
+    },
+    "external-recon": {
+      "command": "python",
+      "args": ["D:\\MCP\\external-recon\\external-recon.py"]
+    },
+    "zap-integration": {
+      "command": "python",
+      "args": ["D:\\MCP\\external-recon\\zap_integration.py"]
+    }
+  }
+}
