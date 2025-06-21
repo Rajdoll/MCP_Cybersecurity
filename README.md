@@ -38,7 +38,7 @@ flowchart TD
 3. Maka llm akan terhubung ke MCP untuk melakukan reconnaissance menggunakan tools yang sudah disediakan sebelumnya
 ![image](https://github.com/user-attachments/assets/d92ef183-c6be-4b19-885d-a86f46ff5dff)
 Proggress tiap-tiap tools bisa dilihat
-![image](https://github.com/user-attachments/assets/fe913317-5dd4-469d-8080-b2518a81965d)
+![image](https://github.com/user-attachments/assets/c1f96389-d86a-41a4-90fe-b542a84f3b93)
 4. Kemudian setelah selesai menjalankan semua tools yang tersedia, llm akan membuat laporan analisis dari output yang ada
 ![image](https://github.com/user-attachments/assets/9d62f5c9-fd58-4189-9d9a-1ec5c3902184)
 5. Walaupun sudah menghasilkan laporan tapi llm masih menawarkan untuk melakukan penjelasan tambahan maupun uji tambahan dengan memanfaatkan tools yang ada (contoh seperti gambar: "Would you like me to elaborate on any specific aspect of the findings or perform additional analysis on particular areas?")
