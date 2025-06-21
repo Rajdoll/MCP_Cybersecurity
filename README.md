@@ -53,6 +53,7 @@ Proggress tiap-tiap tools bisa dilihat
 ![image](https://github.com/user-attachments/assets/4f37c35d-945b-4528-96c2-fddc22fbec29)
 
 8. (Dalam pengujian yang berbeda) Maka llm akan melakukan pengujian tambahan untuk API bahkan menemukan hasil baru yang berbeda sebelumnya
+
 ![image](https://github.com/user-attachments/assets/e6676ad1-caad-4990-a7e5-786d0550a524)
 
 Kendala dalam pengujian adalah akun claude yang saya gunakan masih gratis sehingga terdapat batas dalam penggunaan llm
