@@ -30,3 +30,9 @@ flowchart TD
 * Subdomain Enumeration (dns recon)
 * Email security checks
 * HTTP Header Analysis
+
+### Example Of Usage
+1. Pada percobaan tools ini saya menargetkan target kecamatanciseeng.bogorkab.go.id
+2. Prompt yang saya gunakan menggunakan bahasa inggris sebagai berikut: "Perform  reconnaissance test on kecamatanciseeng.bogorkab.go.id"
+![image](https://github.com/user-attachments/assets/ef40c28c-e653-4ada-b132-b09f06cc351c)
+3. 
