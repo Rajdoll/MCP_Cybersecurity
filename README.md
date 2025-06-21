@@ -26,7 +26,7 @@ flowchart TD
 ```
 ### Dokumentasi Penggunaan
 #### Fitur Utama
--. DNS Reconnaissance (Menggunakan dig dan whois)
--. Subdomain Enumeration (dns recon)
--. Email security checks
--. HTTP Header Analysis
+* DNS Reconnaissance (Menggunakan dig dan whois)
+* Subdomain Enumeration (dns recon)
+* Email security checks
+* HTTP Header Analysis
