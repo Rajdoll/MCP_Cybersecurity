@@ -1,5 +1,3 @@
-*README.md*
-
 # MCP FOR CYBERSECURITY
 
 ## Dokumentasi dan Penggunaan
@@ -25,6 +23,5 @@ flowchart TD
         ZAP[ZAP Agent]
         ClaudeAI[Claude AI]
     end
-mermaid'''
-
+```
 ### Fitur Utama
